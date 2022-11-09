@@ -5,8 +5,6 @@ Praveen Kumar R</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF"
 src="https://media.giphy.com/media/XWTENcavWkhVhobHaa/giphy.gif">
   </a>
-<!--
-**Praveen-p-k/Praveen-p-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,8 +13,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning javascript
 - 💬 Ask me about ##java and C##
 - 📫 How to reach me ##rpraveenkumarr51@gmail.com##
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm the Student of Kongu Engineering College
+- ✌  I'm the Student of Kongu Engineering College
