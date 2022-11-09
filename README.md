@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working in <a href="https://www.calibraint.com/" target="blank">calibraint technologies pvt ltd</a>
 
 - 🌱 I’m currently learning javascript
-- 💬 Ask me about ##java and C##
-- 📫 How to reach me ##rpraveenkumarr51@gmail.com##
+- 💬 Ask me about **java and C**
+- 📫 How to reach me **rpraveenkumarr51@gmail.com**
 - ✌  I'm the Student of Kongu Engineering College
