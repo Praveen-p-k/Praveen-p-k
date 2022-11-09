@@ -7,9 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen-p-k&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-p-k" /> </p>
 
+- ⚡ I'm Currently doing Intenship on <a href="https://www.calibraint.com/" target="blank">calibraint technologies pvt ltd</a>
+
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Java && C**
+- 💬 Ask me about **Java** && **C**
 
 - 📫 How to reach me **rpraveenkumarr51@gmail.com**
 
