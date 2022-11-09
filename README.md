@@ -14,4 +14,4 @@ src="https://media.giphy.com/media/XWTENcavWkhVhobHaa/giphy.gif">
 - ✌  I'm the Student of Kongu Engineering College, Erode
 
 <br/>
-<h3 align="center"><img src ="https://media.giphy.com/media/3o7bu4iFWOH3oYEpws/giphy.gif" width="30" height="30 style=margin-right: 10px;">Search About Me.." </h3>
+<h3 align="center"><img src ="https://media.giphy.com/media/3o7bu4iFWOH3oYEpws/giphy.gif" width="50" height="30 style=margin-right: 10px;">Search About Me.." </h3>
