@@ -6,11 +6,9 @@ Praveen Kumar R</a></h1>
 src="https://media.giphy.com/media/XWTENcavWkhVhobHaa/giphy.gif">
   </a>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working in <a href="https://www.calibraint.com/" target="blank">calibraint technologies pvt ltd</a>
 
 - 🌱 I’m currently learning javascript
 - 💬 Ask me about **java and C**
 - 📫 How to reach me **rpraveenkumarr51@gmail.com**
-- ✌  I'm the Student of Kongu Engineering College
+- ✌  I'm the Student of Kongu Engineering College, Erode
