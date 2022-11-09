@@ -1,3 +1,5 @@
+![logo](https://github.com/Praveen-p-k/Praveen-p-k/blob/main/github%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Praveen Kumar R</h1>
 <h3 align="center">A passionate developer from Kallakurichi, India</h3>
 
