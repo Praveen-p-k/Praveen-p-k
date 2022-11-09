@@ -3,7 +3,7 @@ Praveen Kumar R</a></h1>
 <h3 align="center">A Passionate Developer from Kallakurichi India</h3>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF"
-src="https://media.giphy.com/media/SWoSKN6DxTszqIKEqv/giphy.gif">
+src="https://media.giphy.com/media/SWoSKN6DxTszqIKEqv/giphy.gif](https://media.giphy.com/media/XWTENcavWkhVhobHaa/giphy.gif">
   </a>
 <!--
 **Praveen-p-k/Praveen-p-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
