@@ -22,3 +22,6 @@ src="https://media.giphy.com/media/XWTENcavWkhVhobHaa/giphy.gif">
 href="https://www.linkedin.com/in/in/praveen-kumar-278944249">
                                            <img scr="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank"
+       </div>
+    </p>
+    
