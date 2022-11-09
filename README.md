@@ -15,3 +15,8 @@ src="https://media.giphy.com/media/XWTENcavWkhVhobHaa/giphy.gif">
 
 <br/>
 <h3 align="center"><img src ="https://media.giphy.com/media/ToMjGpmB85mFv1D9F0k/giphy.gif" width="100" height="30 style=margin-right: 10px;"> find me in 👇" </h3>
+<p align="center">
+  <div align="center" class="icons-social" style=margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank"
+href="https://www.linkedin.com/in/linkedin.com/in/praveen-kumar-278944249">
+                                           <img scr="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
