@@ -1,4 +1,4 @@
-![logo](https://github.com/Praveen-p-k/Praveen-p-k/blob/main/github%20banner.png)
+![logo](https://github.com/Praveen-p-k/Praveen-p-k/blob/main/Dallas-Banner.jpg)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
