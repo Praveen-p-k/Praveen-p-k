@@ -1,36 +1,130 @@
-![logo](https://github.com/Praveen-p-k/Praveen-p-k/blob/main/Dallas-Banner.jpg)
+
+<div align="center">
+
+# 👋 **Hello, I'm PRAVEEN KUMAR R**  
+## A passionate coder  
+### And full-stack developer specialized in backend development 🚀
+
+</div>
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+## 🚀 About Me
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> <p align="left"> [![](https://visitcount.itsvg.in/api?id=praveen-p-k&icon=0&color=0)](https://visitcount.itsvg.in)
-
-- 🔭 I’m currently **working on Calibraint Technologies**
-
-- 💬 Ask me about **C, Js, Ts, Node, React, Redux, MongoDB, and MySQL**
-
-- 📫 How to reach me **praveenrampk@gmail.com**
-</br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/praveen-kumar-r-278944249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveen-kumar-r-278944249/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20377622/praveen-kumar-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20377622/praveen-kumar-r" height="30" width="40" /></a>
-<a href="https://www.instagram.com/praveen._.mech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/praveen._.mech/" height="30" width="40" /></a>
-</p></br>
+Experienced NestJS Developer with over 1.5 years of hands-on experience in building user-centric applications. Proficient in Agile methodologies and skilled in Jira for project management. Well-versed in NestJS, Microservices, Cloud technologies, and API development. Capable of simplifying complex technical concepts for non-technical stakeholders. Experienced across all phases of the software development lifecycle, eager to leverage my NestJS expertise to drive business growth through technology.
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+🌐 **Explore my [🔗Portfolio](https://praveen-ram.netlify.app/)**
 
-</br>
+---
 
-# 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen-p-k&show_icons=true&locale=en&layout=compact" alt="praveen-p-k" /></p>
+### 🌟 **Technologies & Skills** 🌟
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen-p-k&show_icons=true&locale=en" alt="praveen-p-k" /></p>
+**🖥️** **Programming Languages:**  
+`JavaScript`, `TypeScript`, `Java`, `C`, `Solidity`
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=praveen-p-k&theme=dark&hide_border=false)<br/>
+**🔧** **Backend Development:**  
+`NestJS`, `Node.js`, `Express`, `Next.js`
+
+**💾** **Databases:**  
+`MongoDB`, `MySQL`, `DynamoDB`, `PostgreSQL`
+
+**⚙️** **DevOps & Cloud:**  
+`Docker`, `Azure`, `AWS`, `GCP`, `CI/CD`
+
+**🌐** **Frontend Development:**  
+`React.js`, `Next.js`, `TailwindCSS`, `Bootstrap`
+
+**📡** **Messaging & Event Streaming:**  
+`Apache Kafka`, `AWS SQS`, `WebSocket`
+
+---
+
+## 🔥 Featured Projects:
+
+### **🛰️ WebSocket Gateway with Kafka Integration**
+- **Tech Stack:** `NestJS`, `WebSocket`, `Apache Kafka`, `Redis`, `TypeScript`
+- Developed a WebSocket gateway with Kafka integration for message routing.
+- Authenticated multiple clients, tracked inactivity, and validated events using API keys.
+- Scalable design for external backend consumption.
+
+🔗 **[Repository](https://github.com/Praveen-p-k/websocket-kafka-integration)**
+
+---
+
+### **🎅 Secret Santa Application**
+- **Tech Stack:** `NestJS`, `Next.js`, `WebSocket`, `MongoDB`, `JWT`
+- Built a Secret Santa app allowing group creation, wishlist management, and role-based access.
+- Integrated real-time updates using WebSocket and secure authentication via JWT.
+  
+🔗 **[Repository](https://github.com/Praveen-p-k/secret-santa)**
+
+---
+
+### **💼 Hedgehogg Wallet – Secure Multi-Signature Crypto Wallet**
+- **Tech Stack:** `NestJS`, `React.js`, `Web3.js`, `Ledger`, `Trezor`, `Polygon`, `Ethereum`, `BSC`
+- Developed a multi-signature wallet supporting **Ledger**, **Trezor**, and **SafePal** hardware wallets.
+- Features: Token/NFT management, DEX swapping, and custom RPC configuration for Ethereum, BSC, and Polygon.
+- Emphasizes security and decentralization.
+
+---
+
+### **🔔 Event Monitoring & Webhook Integration**
+- **Tech Stack:** `NestJS`, `Web3.js`, `MySQL`, `API Gateway`, `Webhooks`
+- Created a NestJS-based server to monitor smart contract events (ERC721 transfers, metadata updates).
+- Event validation, retry mechanisms, and webhook integration to trigger actions on event emissions.
+- Efficient tracking of events stored in **MySQL**.
+
+🔗 **[Repository](https://github.com/Praveen-p-k/even-monitoring-server)**
+
+---
+
+### **💬 Chat Me – Real-Time Messaging Application**
+- **Tech Stack:** `NestJS`, `React.js`, `Twilio`, `WebSocket`, `Google Drive API`, `MySQL`
+- Developed a real-time chat app with **WebSocket** integration and **SMS verification** via **Twilio**.
+- Features include group messaging, media storage using **Google Drive API**, and **MySQL** for data storage.
+- Fast, scalable, and secure messaging platform.
+
+🔗 **[Repository](https://github.com/Praveen-p-k/chat-me)**
+
+---
+
+### **🎨 NFT Tokenization Platform**
+- **Tech Stack:** `NestJS`, `Solidity`, `Ethereum`, `AWS SQS`, `AWS S3`, `AWS Secrets Manager`
+- Built a backend for minting and managing NFTs using **ERC721**, **ERC1155**, and **ERC7401** standards.
+- Integrated **Amazon SQS** for background task processing and used AWS services like **S3** and **Secrets Manager**.
+
+---
+
+### **📐 Polynomial Equation Multiplication (CLI Application)**
+- **Tech Stack:** `Java`, `Command-line Interface (CLI)`
+- Developed a command-line application in **Java** to solve polynomial multiplication.
+- Efficiently parses and manages polynomial equations using a linked list structure for better performance.
+
+---
+
+### **🐍 The Hungry Snake – Food-Eating Game (Chrome Extension)**
+- **Tech Stack:** `React.js`, `Chrome Extensions API`, `JavaScript`
+- Built an interactive Snake food-eating game as a Chrome extension using **React**.
+- Features: Difficulty levels, score tracking, smooth gameplay, and high responsiveness.
+
+🔗 **[Repository](https://github.com/Praveen-p-k/hungry-snake)**
+
+---
+
+## 📫 How to Reach Me:
+- **Email:** [praveenrampk@gmail.com](mailto:praveenrampk@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/praveenrampk/](https://www.linkedin.com/in/praveenrampk/)
+- **Twitter:** [https://x.com/praveenrampk](https://x.com/praveenrampk)
+
+---
+
+## 📊 GitHub Stats:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=praveen-p-k&show_icons=true&locale=en&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-p-k&show_icons=true&locale=en)
+
+🔥 **GitHub Streak:**
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=praveen-p-k&theme=dark&hide_border=false)
+
+---
