@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C, Js, Ts, Node, React, Redux, MongoDB, and MySQL**
 
-- 📫 How to reach me **rpraveenkumarr51@gmail.com**
+- 📫 How to reach me **praveenrampk@gmail.com**
 </br>
 
 <h3 align="left">Connect with me:</h3>
